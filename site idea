@@ -1,0 +1,23 @@
+The goal of this site is to help language students differentiate between similar phonemes in their target language,
+when one or both of those phonemes doesn't exist in the student's native language.
+
+The user will be provided with a pair of words, differing only in one phoneme, for example, bit and beat. An audio
+recording of one of the words will be played, and the user will be asked to select which word was spoken. The site will
+use the Leitner system of spaced repetition, with the pairs of words being split among 5 'boxes'. The first box will
+hold the pairs most in need of repetition, with the goal being to move all pairs into the final box. Giving a correct
+answer will move the pair into the next higher box, while an incorrect one will return the pair to box #1.
+
+Practice interval for each box
+Box1:5 mins
+Box2:30 mins
+Box3:2 hours
+Box4:5 hours
+Box5:1 day
+
+All pairs start in box 1.
+
+If the lastPracticed value for a given pair falls outside the practice interval, that pair needs to be practiced.
+
+If necessary, the number of boxes can be increased, and the time interval for each box can be adjusted; however, this
+will be a site-wide change, not a user-specific one. (what happens to pairs in a box if that box is redefined or
+eliminated?)

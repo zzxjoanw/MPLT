@@ -1,0 +1,43 @@
+based on the user stories laid out, four pages are required
+* a main page, with intro information about the site, as well as the option to login/register
+* a practice page
+* a user profile page
+* and an admin page
+
+all pages will also have a nav bar.
+* when logged out, the navbar will allow the user to log in or register
+* when logged in, the navbar will allow the user to edit their profile, switch UI language, and log out
+* admin accounts will also log in from the navbar, but will be directed to the admin page instead of the practice page
+
+to play the audio files, the html5 <audio> tag will be used with mp3 files. This will work in IE9+, Chrome 4+, FF3.5+,
+Safari 4+, Opera 10.5+.
+
+I plan to use a mix of TTS and human-recorded audio in the project, sourced from abair.ie and
+
+Minimal pair list
+*human-recorded
+     |    C   |    M   |   U
+a/á  |
+b    | bí/buí | bí/buí | bí/buí
+bh   |
+c    |
+ch
+d
+dh
+e/é
+f
+g   |   ?   |   gall/geal |  gall/geal
+i/í
+l
+m
+mh
+n   |      ?  |    ?     |   *badmantan/badmantain
+o/ó
+p
+ph
+r
+s
+sh
+t
+th
+u/ú

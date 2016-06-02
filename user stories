@@ -1,0 +1,22 @@
+as a new user I want to register
+as a new user I want to see the available languages
+as a user I want to login
+as a user I want to logout
+as a user I want to edit my details
+as a user I want to add a new language
+as a user I want to remove a language
+as a user I want to do a practice session
+
+as an admin I want to login
+as an admin I want to logout
+as an admin I want to add a new language
+as an admin I want to add a new dialect
+as an admin I want to add a new pair
+
+as an admin I want to edit a language
+as an admin I want to edit a dialect
+as an admin I want to edit a pair
+
+as an admin I want to redefine a box
+as an admin I want to add a new box
+as an admin I want to remove a box
